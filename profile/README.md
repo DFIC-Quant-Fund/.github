@@ -1,6 +1,10 @@
-## Hi there 👋
+# DFIC Quant Group
+Welcome to DFIC's Quant group. Our mission is to foster a community for financial innovation and to explore the bleeding-edge of investing technology.
 
-DFIC QUANT description
+[DeGroote Finance & Investment Council](https://www.degrootefinance.ca/)
+
+## Join Us
+We are looking for McMaster undergraduate and graduate students with a keen interest in quantitative finance (trading, research, or engineering). Most of our members have a strong quantitative background and major in fields like Computer Science, Statistics or Math. For more information and to apply to join the Quant Group, visit [DFIC on Instagram](https://www.instagram.com/degrootefinance/).
 
 <!--
 
